@@ -40,6 +40,21 @@ h4 {
   font-size: 1.125em /*18px */
 }
 
+.head{
+    font-family: 'Karla', sans-serif;
+    color: pink;
+    text-align: center;
+    background-image: url("../img/purpleproject.jpg");
+    padding: 40px;
+    
+}
+
+.pics{
+    width: 30%;
+    height: 40%; 
+    
+}
+
 /* =======================================
     author styles
     place your custom styles below here
